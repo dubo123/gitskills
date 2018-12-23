@@ -1,1 +1,1 @@
-Creating a new branch is quick $13
+Creating a new branch is quick
